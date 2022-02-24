@@ -3,7 +3,7 @@
 
 
 
-Originally written for the paper publish in J Wood Science.
+Originally written for the paper published in J Wood Science.
 
 
 
